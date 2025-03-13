@@ -42,23 +42,27 @@ Merhaba! Ben **Junior Python/Django Geliştiricisi** olarak yazılım dünyasın
 ---
 
 ## 🖥️ Projelerim
+###  **Python: Malzeme Parça Seçimi ve Maliyet Raporu**
+Python, SQL ve Excel kullanarak bir maliyet hesaplama ve raporlama uygulaması geliştirdim. 
+Kullanıcıların SQL veritabanındaki 40 tablo arasından malzeme ve parça seçimi yapmasını sağladım.
+Excel entegrasyonu ile detaylı maliyet raporları oluşturarak analiz süreçlerini kolaylaştırdım
 
-### 1. **SAP ABAP: Stok Raporu**
+###  **SAP ABAP: Stok Raporu**
 Stok yönetimi süreçlerini optimize etmek için veriye dayalı raporlama sistemi geliştirdim.
 
-### 2. **SAP ABAP: Çalışan Tecrübe Kıyaslama Raporu**
+###  **SAP ABAP: Çalışan Tecrübe Kıyaslama Raporu**
 Çalışan Tecrübe Kıyaslama Raporu geliştirerek departman yöneticilerine kritik HR analizleri sundum. ALV Grid ile özelleştirilebilir raporlar geliştirerek, çalışan performans kıyaslamalarını veri odaklı ve hızlı şekilde yaparak şirketin karar alma süreçlerine katkı sağladım.
 
-### 3. **SAP ABAP: İkramiye Dağıtma Programı**
+### **SAP ABAP: İkramiye Dağıtma Programı**
 Adil ve şeffaf bir ikramiye dağıtım sistemi geliştirerek çalışan motivasyonunu artırmayı hedefledim.
 
-### 4. **Yapay Zeka Uygulamaları (2024 - Devam Ediyor)**
+### **Yapay Zeka Uygulamaları (2024 - Devam Ediyor)**
 Python ve TensorFlow kullanarak resim sınıflandırma ve veri analizi projeleri yürütüyorum. %95 sınıflandırma doğruluğu elde ederek etkili modeller oluşturdum.
 
-### 5. **Kişisel Web Sitesi Geliştirme (2019 - 2020)**
+### **Kişisel Web Sitesi Geliştirme (2019 - 2020)**
 HTML ve CSS kullanarak responsive bir web sitesi tasarladım. Kullanıcı deneyimini optimize etmek için modern tasarım teknikleri kullandım.
 
-### 6. **E-Ticaret Platformu Geliştirme (2023)**
+### **E-Ticaret Platformu Geliştirme (2023)**
 Django çerçevesini kullanarak ürün yönetimi, ödeme entegrasyonu ve kullanıcı kaydı modüllerini içeren bir e-ticaret platformu oluşturdum. Yüksek performans ve güvenlik gereksinimlerini karşılayan çözümler sundum.
 
 ---
