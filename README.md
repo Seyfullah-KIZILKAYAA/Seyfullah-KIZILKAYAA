@@ -66,7 +66,7 @@ Django çerçevesini kullanarak ürün yönetimi, ödeme entegrasyonu ve kullan�
 ## 🎉 İletişim
 
 - 📫 Bana ulaşmak için: **[kizilkayaseyfullah@gmail.com](mailto:kizilkayaseyfullah@gmail.com)**
-- 🔗 GitHub: [https://github.com/seyfullah-kizilkaya](https://github.com/seyfullah-kizilkaya)
+- 🔗 GitHub: [https://github.com/seyfullah-kizilkaya](https://github.com/seyfullah-kizilkayaa)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/seyfullah-kizilkaya-651259222/](https://www.linkedin.com/in/seyfullah-kizilkaya-651259222/)
 
 ---
