@@ -4,37 +4,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+AI-Powered+ERP+Solutions+%F0%9F%A4%96;7+Autonomous+Agents+%E2%80%A2+1+Orchestrator+%F0%9F%A7%A0;Turning+Business+Data+into+Conversations+%F0%9F%92%AC)](https://git.io/typing-svg)
 
-<br>
-
-<a href="mailto:kizilkayasyfllh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/seyfullah-kizilkaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Seyfullah-KIZILKAYAA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Seyfullah-KIZILKAYAA&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About Me
 
-```typescript
-const seyfullah = {
-    location: "Turkey",
-    education: "Mersin University - Mathematics",
-    roles: ["Full Stack Developer", "ERP Specialist", "AI Engineer"],
-    currentFocus: "Multi-Agent AI Systems for Enterprise",
+- **Location:** Turkey
+- **Education:** Mersin University — Mathematics
+- **Roles:** Full Stack Developer | ERP Specialist | AI Engineer
+- **Current Focus:** Multi-Agent AI Systems for Enterprise
 
-    expertise: {
-        erp:      ["SAP ABAP", "Odoo", "CaniasERP", "Custom ERP Solutions"],
-        backend:  ["Python", "Django", "Node.js", "Next.js API Routes"],
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        ai:       ["LLM Integration", "Multi-Agent Systems", "Prompt Engineering"],
-        database: ["PostgreSQL", "SQL Server", "MySQL", "Supabase"],
-    },
+| Area | Technologies |
+|------|-------------|
+| **ERP** | SAP ABAP, Odoo, CaniasERP, Custom ERP Solutions |
+| **Backend** | Python, Django, Node.js, Next.js API Routes |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **AI/ML** | LLM Integration, Multi-Agent Systems, Prompt Engineering |
+| **Database** | PostgreSQL, SQL Server, MySQL, Supabase |
 
-    philosophy: "ERP sistemleri ile iş süreçlerini optimize etmek, AI ile geleceği şekillendirmek."
-};
-```
+> *"ERP sistemleri ile is sureclerini optimize etmek, AI ile gelecegi sekillendirmek."*
 
 ---
 
