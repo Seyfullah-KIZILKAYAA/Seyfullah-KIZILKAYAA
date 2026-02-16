@@ -158,70 +158,108 @@ Kullanıcı mesajı → Veri çıkarma → Eksik alan kontrolü
 
 ## 💼 Other Projects
 
-<table>
-<tr>
+---
 
-<td width="50%" valign="top">
+### 🔬 ERP Operations Intelligence Platform
+> *AI destekli ERP analitik platformu — Logo Tiger/Go entegrasyonu*
 
-### 🚗 Otomotiv Servis ERP
-> Full-stack ERP sistemi
+<a href="https://github.com/Seyfullah-KIZILKAYAA/ERP-Operations-Intelligence-Platform">
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-- 📦 Stok ve tedarik zinciri
-- 📅 Randevu ve iş emri takibi
-- 💰 Finansal raporlama
-- 🔐 JWT rol bazlı yetkilendirme
+Logo Tiger/Go ERP sistemleri ile entegre çalışan, makine öğrenmesi destekli analitik platformu. Satış tahmini, anomali tespiti ve müşteri segmentasyonu yaparak üst düzey karar destek sistemi sunar.
 
-`Next.js` `Django REST` `PostgreSQL` `JWT`
+- 📈 **Prophet** ile zaman serisi tahminleme (satış, gelir, stok)
+- 🔍 **Isolation Forest** ile anomali tespiti ve erken uyarı
+- 👥 **RFM + K-Means** ile müşteri segmentasyonu
+- 📊 **Power BI** entegrasyonu ile görsel raporlama
+- 🤖 **Groq AI** ile doğal dil tabanlı rapor üretimi
 
-</td>
+`Python` `FastAPI` `Prophet` `Scikit-learn` `Power BI` `Groq API` `Logo Tiger`
 
-<td width="50%" valign="top">
+---
 
-### 📊 Maliyet Optimizasyon Sistemi
-> Enterprise maliyet analiz platformu
+### 🚗 Otomotiv Servis Yönetimi ERP Sistemi
+> *Otomotiv servis sektörü için kapsamlı full-stack ERP platformu*
 
-- 40+ tablo kurumsal veritabanı
-- Pandas ile veri analizi
-- Excel otomasyon raporlama
-- Karar destek sistemi
+Servis süreçlerinin tamamını yöneten, rol bazlı yetkilendirmeli ERP sistemi. Stoktan randevuya, finanstan performansa kadar tüm modüller tek çatı altında.
 
-`Python` `SQL Server` `Pandas` `Tkinter`
+- 📦 Stok yönetimi ve tedarik zinciri takibi
+- 📅 Randevu planlama ve iş emri yönetimi
+- 💰 Finansal raporlama ve maliyet analizi
+- 👨‍🔧 Teknisyen performans değerlendirmesi
+- 🔐 JWT tabanlı rol bazlı yetkilendirme (Yönetici, Müdür, Teknisyen)
+- 📧 Otomatik e-posta bildirim sistemi
 
-</td>
+`Next.js` `Django REST Framework` `PostgreSQL` `JWT` `Tailwind CSS`
 
-</tr>
-<tr>
+---
 
-<td width="50%" valign="top">
+### 📊 Malzeme Parça Seçimi ve Maliyet Optimizasyon Sistemi
+> *Enterprise seviye maliyet analiz ve raporlama uygulaması*
 
-### 🏢 SAP ABAP Modülleri
-> Kurumsal süreç otomasyonu
+<a href="https://github.com/Seyfullah-KIZILKAYAA/malzeme-parca-secimi-ve-maliyet-raporu">
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-- Gerçek zamanlı stok izleme
-- Departman performans analizleri
-- İkramiye dağıtım algoritması
-- ALV Grid & BAPI entegrasyonları
+40+ tablo içeren kurumsal veritabanı üzerinde hızlı malzeme seçimi ve maliyet optimizasyonu sağlayan desktop uygulama. Tedarik süreçlerinde karar destek sistemi olarak kullanılıyor.
 
-`SAP ABAP` `ALV Grid` `BAPI`
+- 🔎 Hızlı malzeme ve parça seçim arayüzü
+- 📊 Pandas ile veri analizi ve işleme
+- 📑 Excel entegrasyonu ile otomatik raporlama
+- 💹 Karşılaştırmalı maliyet analizleri
 
-</td>
+`Python` `SQL Server` `Pandas` `Tkinter` `Excel Automation`
 
-<td width="50%" valign="top">
+---
 
-### 🧠 Derin Ogrenme Projeleri
-> TensorFlow ile AI uygulamalari
+### 🏢 SAP ABAP Raporlama ve Otomasyon Modülleri
+> *Kurumsal süreç optimizasyonu projeleri*
 
-- CNN goruntu siniflandirma (%95)
-- Veri on isleme & optimizasyon
-- Production-ready deployment
-- Kurumsal veri analizi
+<a href="https://github.com/Seyfullah-KIZILKAYAA/ABAP-Stok-Raporu">
+<img src="https://img.shields.io/badge/Stok_Raporu-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+</a>
+<a href="https://github.com/Seyfullah-KIZILKAYAA/ikramiye-dagtim-programi--main">
+<img src="https://img.shields.io/badge/İkramiye_Dağıtım-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+</a>
 
-`TensorFlow` `Keras` `NumPy` `Python`
+SAP sistemleri üzerinde çeşitli raporlama ve otomasyon çözümleri:
 
-</td>
+- **📦 Stok Yönetim Raporu** — Gerçek zamanlı stok izleme, kritik eşik uyarıları, ALV Grid raporlama
+- **👥 Çalışan Tecrübe Kıyaslama** — Departman bazlı performans analizleri, HR veri raporlama
+- **💰 İkramiye Dağıtım Programı** — Performansa göre otomatik hesaplama, adil dağıtım algoritması, BAPI entegrasyonu
 
-</tr>
-</table>
+`SAP ABAP` `ALV Grid` `Internal Tables` `BAPI`
+
+---
+
+### 🛒 Django E-Ticaret Platformu
+> *Full-stack e-ticaret web uygulaması*
+
+<a href="https://github.com/Seyfullah-KIZILKAYAA/Django-E-Ticaret-Platformu">
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+Django backend ile geliştirilmiş, ürün yönetimi, sepet sistemi ve ödeme entegrasyonu içeren e-ticaret platformu.
+
+`Django` `JavaScript` `HTML/CSS` `PostgreSQL`
+
+---
+
+### 🧠 Yapay Zeka ve Derin Öğrenme Projeleri
+> *TensorFlow ile görüntü sınıflandırma uygulamaları*
+
+<a href="https://github.com/Seyfullah-KIZILKAYAA/flower_sorting-master">
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+CNN mimarisi ile görüntü sınıflandırma projesi. Çiçek türlerini **%95 doğrulukla** sınıflandıran derin öğrenme modeli.
+
+- 🔬 CNN mimarisi tasarımı ve eğitimi
+- 📊 Veri ön işleme ve augmentation
+- ⚡ Model optimizasyonu ve production deployment
+
+`Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
 
 ---
 
