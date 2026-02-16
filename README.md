@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:2e9ef7&height=220&section=header&text=Seyfullah%20KIZILKAYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ERP%20%26%20AI%20Specialist&descSize=18&descAlignY=55&descColor=8892b0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e9ef7&height=220&section=header&text=Seyfullah+KIZILKAYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Developer+%7C+ERP+and+AI+Specialist&descSize=18&descAlignY=55&descColor=8892b0" alt="Header" />
 
 <div align="center">
 
@@ -320,4 +320,4 @@ CNN mimarisi ile görüntü sınıflandırma projesi. Çiçek türlerini **%95 d
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:2e9ef7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e9ef7&height=120&section=footer" alt="Footer" />
