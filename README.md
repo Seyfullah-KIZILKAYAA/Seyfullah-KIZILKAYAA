@@ -1,253 +1,242 @@
-# 👋 Merhaba, Ben Seyfullah KIZILKAYA
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ERP+%26+AI+Specialist;SAP+ABAP+Developer;Problem+Solver)](https://git.io/typing-svg)
-
-</div>
-
-**ERP sistemleri** ve **AI destekli kurumsal çözümler** üzerine uzmanlaşan Full Stack Developer. SAP ABAP, CaniasERP ve modern web teknolojileri ile kurumsal iş süreçlerini optimize eden projeler geliştiriyorum.
-
----
-
-## 🚀 Hakkımda
-
-- 🎓 Mersin Üniversitesi Matematik Bölümü mezunu
-- 🏢 **Kurumsal ERP sistemleri** ve uygulamaları geliştiriyorum (SAP ABAP, CaniasERP ve diğer ERP platformları)
-- 🤖 **AI destekli ERP çözümleri** ile iş süreçlerini optimize ediyorum
-- 💼 Full Stack Developer (Next.js, Django, Python, TypeScript)
-- 🎯 Kurumsal süreç otomasyonu ve veri analizi konularında deneyimliyim
-- 🌱 Sürekli öğrenmeye ve gelişime açığım
-
----
-
-## 🛠️ Teknoloji Yığınım
-
-### ERP & Enterprise Systems
-![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![CaniasERP](https://img.shields.io/badge/CaniasERP-004D4F?style=for-the-badge&logo=&logoColor=white)
-![ERP Systems](https://img.shields.io/badge/ERP_Systems-FF6B6B?style=for-the-badge&logo=&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4A90E2?style=for-the-badge&logo=&logoColor=white)
-
-### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI & Data Analysis
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge&logo=&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools & Development
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Other Technologies
-![Antigravity](https://img.shields.io/badge/Antigravity-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=&logoColor=white)
-
----
-
-## 💼 ERP & Kurumsal Projelerim
-
-### 🤖 AI Destekli ERP Asistanı
-> *Doğal dil işleme ile ERP verilerini sorgulayan akıllı chatbot sistemi*
-
-ERP sistemlerindeki verilere doğal dil ile erişim sağlayan AI asistanı geliştirdim. Kullanıcılar SQL bilgisi olmadan karmaşık raporlara erişebiliyor.
-
-**Temel Özellikler:**
-- Groq API (Llama-3.3-70b) ile doğal dil işleme
-- Prompt Engineering ile SQL sorgu otomasyonu
-- Real-time chat arayüzü ve dinamik rapor oluşturma
-- Ham verilerin AI tarafından özetlenmesi ve anlaşılır raporlara dönüştürülmesi
-
-**Tech Stack:** `Next.js` `TypeScript` `Groq API` `Supabase` `PostgreSQL` `REST API`
-
----
-
-### 🚗 Otomotiv Servis Yönetimi ERP Sistemi
-> *Otomotiv servis sektörü için kapsamlı ERP platformu*
-
-Servis süreçlerinin tamamını yöneten, full-stack ERP sistemi geliştirdim.
-
-**Modüller:**
-- 📦 Stok yönetimi ve tedarik zinciri
-- 📅 Randevu ve iş emri takibi
-- 💰 Finansal raporlama ve maliyet analizi
-- 👨‍🔧 Teknisyen performans yönetimi
-- 🔐 JWT tabanlı rol bazlı yetkilendirme (Yönetici, Müdür, Teknisyen)
-- 📧 Otomatik e-posta bildirim sistemi
-
-**Tech Stack:** `Next.js` `Django REST Framework` `PostgreSQL` `JWT` `Tailwind CSS`
-
----
-
-### 📊 Malzeme Parça Seçimi ve Maliyet Optimizasyon Sistemi
-> *Enterprise seviye maliyet analiz ve raporlama uygulaması*
-
-40+ tablo içeren kurumsal veritabanı üzerinde maliyet optimizasyonu sağlayan sistem geliştirdim.
-
-**Özellikler:**
-- Hızlı malzeme ve parça seçim arayüzü
-- Pandas ile veri analizi ve işleme
-- Excel entegrasyonu ile otomatik raporlama
-- Karşılaştırmalı maliyet analizleri
-- Tedarik süreçlerinde karar destek sistemi
-
-**Tech Stack:** `Python` `SQL Server` `Pandas` `Tkinter` `Excel Automation`
-
----
-
-### 🏢 SAP ABAP Raporlama ve Otomasyon Modülleri
-> *Kurumsal süreç optimizasyonu projeleri*
-
-SAP sistemleri üzerinde çeşitli raporlama ve otomasyon çözümleri geliştirdim:
-
-**📦 Stok Yönetim Raporu**
-- Gerçek zamanlı stok izleme sistemi
-- Kritik eşik değerleri ve uyarı mekanizması
-- ALV Grid ile detaylı raporlama
-
-**👥 Çalışan Tecrübe Kıyaslama Raporu**
-- Departman bazlı performans analizleri
-- HR süreçleri için veri odaklı raporlama
-- Özelleştirilebilir ALV Grid çıktıları
-
-**💰 İkramiye Dağıtım Programı**
-- Performans kriterlerine göre otomatik hesaplama
-- Adil ve şeffaf dağıtım algoritması
-- İç tablo operasyonları ve BAPI entegrasyonları
-
-**Tech Stack:** `SAP ABAP` `ALV Grid` `Internal Tables` `BAPI`
-
----
-
-### 🧠 Yapay Zeka ve Veri Analizi Projeleri
-> *TensorFlow ile derin öğrenme uygulamaları*
-
-Kurumsal veri analizi ve görüntü işleme projeleri geliştirdim:
-
-- CNN mimarisi ile görüntü sınıflandırma (%95 doğruluk)
-- Veri ön işleme ve model optimizasyonu
-- Production-ready model deployment
-
-**Tech Stack:** `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
-
----
-
-## 🎯 Uzmanlık Alanlarım
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 ERP & Enterprise
-- **Tüm ERP Sistemleri** Geliştirme ve Entegrasyonu
-- SAP ABAP Development
-- CaniasERP Implementation
-- Özel ERP Çözümleri
-- ERP Modül Özelleştirme
-- Kurumsal Süreç Otomasyonu
-- ALV Grid Raporlama
-- BAPI ve RFC Entegrasyonları
-
-</td>
-<td width="50%">
-
-### 💻 Development
-- Full Stack Web Development
-- RESTful API Design
-- Database Optimization
-- AI/ML Integration
-- Prompt Engineering
-- Clean Code & Best Practices
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Data & Analysis
-- SQL Query Optimization
-- Data Modeling
-- Excel Automation
-- Business Intelligence
-- Financial Reporting
-- Performance Analytics
-
-</td>
-<td width="50%">
-
-### 🎓 Soft Skills
-- Hızlı öğrenme ve adaptasyon
-- Problem çözme ve analitik düşünme
-- Takım çalışması ve iş birliği
-- Agile/Scrum metodolojileri
-- Etkili iletişim
-- Detaylara önem verme
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Benimle İletişime Geçin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:2e9ef7&height=220&section=header&text=Seyfullah%20KIZILKAYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ERP%20%26%20AI%20Specialist&descSize=18&descAlignY=55&descColor=8892b0" />
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="mailto:kizilkayasyfllh@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-kizilkayasyfllh@gmail.com-D14836?style=for-the-badge&labelColor=2c2c2c" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://linkedin.com/in/seyfullah-kizilkaya">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Seyfullah_KIZILKAYA-0077B5?style=for-the-badge&labelColor=2c2c2c" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="tel:+905464155733">
-<img src="https://img.shields.io/badge/📱_Telefon-0546_415_57_33-25D366?style=for-the-badge&labelColor=2c2c2c" />
-</a>
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+AI-Powered+ERP+Solutions+%F0%9F%A4%96;7+Autonomous+Agents+%E2%80%A2+1+Orchestrator+%F0%9F%A7%A0;Turning+Business+Data+into+Conversations+%F0%9F%92%AC)](https://git.io/typing-svg)
 
 <br>
 
-### 🌐 Sosyal Medya
+<a href="mailto:kizilkayasyfllh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/seyfullah-kizilkaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Seyfullah-KIZILKAYAA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Seyfullah-KIZILKAYAA&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-seyfullah--kizilkayaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seyfullah-kizilkayaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projelerimi_İncele-FF6B6B?style=for-the-badge&logo=&logoColor=white)](https://github.com/seyfullah-kizilkayaa?tab=repositories)
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```typescript
+const seyfullah = {
+    location: "Turkey",
+    education: "Mersin University - Mathematics",
+    roles: ["Full Stack Developer", "ERP Specialist", "AI Engineer"],
+    currentFocus: "Multi-Agent AI Systems for Enterprise",
+
+    expertise: {
+        erp:      ["SAP ABAP", "Odoo", "CaniasERP", "Custom ERP Solutions"],
+        backend:  ["Python", "Django", "Node.js", "Next.js API Routes"],
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        ai:       ["LLM Integration", "Multi-Agent Systems", "Prompt Engineering"],
+        database: ["PostgreSQL", "SQL Server", "MySQL", "Supabase"],
+    },
+
+    philosophy: "ERP sistemleri ile iş süreçlerini optimize etmek, AI ile geleceği şekillendirmek."
+};
+```
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Project
+
+<div align="center">
+
+### 🤖 ERP AI Chatbot — Multi-Agent Intelligence System
+
+<a href="https://github.com/Seyfullah-KIZILKAYAA/erp_ai_cheatbot">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+**7 otonom AI ajanı** ve bir **Orchestrator** ile ERP verilerinizi doğal dilde sorgulayın, kayıt oluşturun ve güncelleyin.
+
+**Mimarisi:**
+- 🧠 **Orchestrator** — Akıllı yönlendirme, paralel ajan çalıştırma
+- 💼 **Sales Agent** — Sipariş, müşteri, gelir analizi
+- 💰 **Finance Agent** — Fatura, ödeme, nakit akışı
+- 📦 **Inventory Agent** — Stok, ürün, depo yönetimi
+- 🧾 **Purchasing Agent** — Satın alma, tedarikçi
+- 👥 **HR Agent** — Personel, departman, devamsızlık
+- 📈 **CRM Agent** — Fırsat, pipeline, tahmin
+- 🔬 **Analytics Agent** — Prophet tahmin, anomali tespiti, RFM segmentasyon
+
+**Yazma Onay Sistemi:**
+```
+Kullanıcı mesajı → Veri çıkarma → Eksik alan kontrolü
+→ Onay tablosu → Kullanıcı onayı → Odoo'ya kayıt
+```
+
+</td>
+<td width="40%">
+
+**Tech Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LPU-FF6B35?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_XML--RPC-714B67?style=flat-square&logo=odoo&logoColor=white)
+
+**Highlights:**
+
+| Feature | Detail |
+|---------|--------|
+| Agents | **7** autonomous |
+| Write Intents | **14** (create + update) |
+| Confirmation | 2-step approval |
+| Latency | Sub-second (Groq) |
+| Memory | Entity-aware sessions |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### ERP & Enterprise
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![CaniasERP](https://img.shields.io/badge/CaniasERP-004D4F?style=for-the-badge)
+
+### AI & Data
+![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Seyfullah-KIZILKAYAA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Seyfullah-KIZILKAYAA&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
+
+<br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seyfullah-KIZILKAYAA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9EF7&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+## 💼 Other Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚗 Otomotiv Servis ERP
+> Full-stack ERP sistemi
+
+- 📦 Stok ve tedarik zinciri
+- 📅 Randevu ve iş emri takibi
+- 💰 Finansal raporlama
+- 🔐 JWT rol bazlı yetkilendirme
+
+`Next.js` `Django REST` `PostgreSQL` `JWT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Maliyet Optimizasyon Sistemi
+> Enterprise maliyet analiz platformu
+
+- 40+ tablo kurumsal veritabanı
+- Pandas ile veri analizi
+- Excel otomasyon raporlama
+- Karar destek sistemi
+
+`Python` `SQL Server` `Pandas` `Tkinter`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏢 SAP ABAP Modülleri
+> Kurumsal süreç otomasyonu
+
+- Gerçek zamanlı stok izleme
+- Departman performans analizleri
+- İkramiye dağıtım algoritması
+- ALV Grid & BAPI entegrasyonları
+
+`SAP ABAP` `ALV Grid` `BAPI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Derin Ogrenme Projeleri
+> TensorFlow ile AI uygulamalari
+
+- CNN goruntu siniflandirma (%95)
+- Veri on isleme & optimizasyon
+- Production-ready deployment
+- Kurumsal veri analizi
+
+`TensorFlow` `Keras` `NumPy` `Python`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Expertise
+
+<div align="center">
+
+```
+   ERP Systems     ████████████████████████████████████████  Expert
+   Full Stack Dev  ██████████████████████████████████████    Advanced
+   AI/ML & LLMs   ████████████████████████████████          Advanced
+   Database & SQL  ████████████████████████████████████████  Expert
+   SAP ABAP        ████████████████████████████████          Advanced
+   Prompt Eng.     ██████████████████████████████████████    Advanced
+```
 
 </div>
 
@@ -255,14 +244,18 @@ Kurumsal veri analizi ve görüntü işleme projeleri geliştirdim:
 
 <div align="center">
 
-### 💡 "ERP sistemleri ile iş süreçlerini optimize etmek, AI ile geleceği şekillendirmek."
+### 💡 "ERP sistemleri ile is sureclerini optimize etmek, AI ile gelecegi sekillendirmek."
 
-![Profile Views](https://komarev.com/ghpvc/?username=seyfullah-kizilkayaa&color=0FAAFF&style=flat-square&label=Profil+Görüntüleme)
+<br>
 
-⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın! | 🤝 İşbirliği için benimle iletişime geçebilirsiniz.
+<a href="mailto:kizilkayasyfllh@gmail.com"><img src="https://img.shields.io/badge/Email-kizilkayasyfllh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/seyfullah-kizilkaya"><img src="https://img.shields.io/badge/LinkedIn-Seyfullah_KIZILKAYA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="tel:+905464155733"><img src="https://img.shields.io/badge/Phone-0546_415_57_33-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
----
+<br><br>
 
-**🔍 İlgi Alanlarım:** ERP Sistemleri • SAP ABAP • AI & Machine Learning • Full Stack Development • Business Intelligence
+**If you like my projects, give them a** ⭐ **!**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:2e9ef7&height=120&section=footer" />
